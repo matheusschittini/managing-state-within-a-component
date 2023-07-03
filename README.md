@@ -1,5 +1,3 @@
-# Instructions
-
 ## Task
 
 You've revised the useState hook. You've also learned about working with primitive (string) data and complex data (state stored in objects).
